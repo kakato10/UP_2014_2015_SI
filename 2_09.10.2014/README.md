@@ -3,10 +3,34 @@ Materials and tasks for the second Introduction to Programming exercise
 
 So we've learned something about C++ so now it's time for practice.
 
-### Task 1
-As you can imagine you can find the task in task_1.txt. If there are any questions ask right away.
+### Task 1 Variable changer
+Task: Write a program which asks the user to enter two variables and when entered it changes their value.
 
-### Task 2 
+Example:
+	Input: 
+'''
+	a = 2, b = 3
+'''
+	Output: 
+'''
+	"The current value of a is 3"
+	"The current value pf b is 2"
+'''
+
+
+### Task 2 Terminal master
+
+Write a shell(terminal or cmd script) which:
+* displays the "Hello world" message
+* creates new folder named "create_me"
+* deletes the "create_me" folder
+* renames the "create_me" folder to "delete_me"
+* deletes the "delete_me" folder
+* displays the username which is currently logged in on the computer
+* displays the ping of your internet connection (for Windows users)
+* displays the stats of your internet connection (for linux users)
+* exits the shell
+
 This one is a little bit more hardcore. You're going to need some additional materials.
  * Windows users should check this link: http://ss64.com/nt/
  * Linux users will have to look here: http://ss64.com/bash/
