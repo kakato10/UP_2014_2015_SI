@@ -5,13 +5,13 @@ So we've learned something about C++ so now it's time for practice.
 
 ### Task 1 Variables changer
 Task: Write a program which asks the user to enter two variables and when entered it changes their value.
+There's a little example what exactly should happen.
 
-Example:
-	Input: 
+Input: 
 ```
 	a = 2, b = 3
 ```
-	Output: 
+Output: 
 ```
 	"The current value of a is 3"
 	"The current value pf b is 2"
