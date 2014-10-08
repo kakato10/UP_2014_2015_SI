@@ -1,0 +1,6 @@
+Task: Write a program which asks the user to enter two variables and when entered it changes their value.
+
+Example:
+	Input: a = 2, b = 3
+	Output: "The current value of a is 3"
+			"The current value pf b is 2"

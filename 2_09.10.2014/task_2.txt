@@ -1,0 +1,10 @@
+Write a shell(terminal or cmd script) which:
+* displays the "Hello world" message
+* creates new folder named "create_me"
+* deletes the "create_me" folder
+* renames the "create_me" folder to "delete_me"
+* deletes the "delete_me" folder
+* displays the username which is currently logged in on the computer
+* displays the ping of your internet connection (for Windows users)
+* displays the stats of your internet connection (for linux users)
+* exits the shell
