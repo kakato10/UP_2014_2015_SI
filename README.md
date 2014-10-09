@@ -10,5 +10,5 @@ Hopefully at the end of the course you'll have a good boost in your programming 
 
 I can promise you that, this is a hell of a journey, but when you get wherever you want to be, you will feel awesome. So let's get you into the coding world.
 
-### REMEMBER ENJOY RESPONSIBLY!!!
+### REMEMBER, ENJOY RESPONSIBLY!!!
 
