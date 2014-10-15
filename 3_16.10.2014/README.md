@@ -1,4 +1,4 @@
-Booleans, double/float, type convertion, and libraries
+Booleans, double/float, type convertion and libraries
 =====================
 
 ##Task 1 Awesome Point
