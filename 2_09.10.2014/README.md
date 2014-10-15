@@ -4,7 +4,7 @@ Materials and tasks for the second Introduction to Programming exercise
 So we've learned something about C++ so now it's time for practice.
 
 ### Task 1 Variables changer
-Task: Write a program which asks the user to enter two variables and when entered it changes their value.
+Task: Write a program which asks the user to enter two variables and when entered it swaps their values.
 There's a little example what exactly should happen.
 
 Input: 
