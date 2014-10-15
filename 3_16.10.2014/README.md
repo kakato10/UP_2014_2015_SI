@@ -45,7 +45,7 @@ Unfortunately you're going to need some math for that task.
 
 ##Task 2 Math Functions
 
-Write a C++, which uses the cmath library as follows:
+Write a C++, which uses the cmath library and does as follows:
  * computes and displays the square of a number
  * computes and displays the square root of a number
  * finds and displays the absolute value of a number
