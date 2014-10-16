@@ -15,7 +15,7 @@ Example usage
 	```
 	Outpu:
 	```
-	The point is awesome!
+	The point isn't awesome!
 	```
  *  Input:
 	```
