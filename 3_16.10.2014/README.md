@@ -15,7 +15,7 @@ Example usage
 	```
 	Outpu:
 	```
-	The point isn't awesome!
+	0
 	```
  *  Input:
 	```
@@ -23,7 +23,7 @@ Example usage
 	```
 	Outpu:
 	```
-	The point is awesome!
+	1
 	```
  * Input:
 	```
@@ -31,7 +31,7 @@ Example usage
 	```
 	Outpu:
 	```
-	The point isn't awesome!
+	0
 	```
  * Input:
 	```
@@ -39,7 +39,7 @@ Example usage
 	```
 	Outpu:
 	```
-	The point is awesome!
+	1
 	```
 	
 Unfortunately you're going to need some math for that task.
