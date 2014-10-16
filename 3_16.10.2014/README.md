@@ -41,6 +41,7 @@ Example usage
 	```
 	The point is awesome!
 	```
+	
 Unfortunately you're going to need some math for that task.
 
 ##Task 2 Math Functions
