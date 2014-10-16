@@ -13,7 +13,7 @@ Example usage
 	```
 	x=2, y=2
 	```
-	Outpu:
+	Output:
 	```
 	0
 	```
@@ -21,7 +21,7 @@ Example usage
 	```
 	x=-2, y=-1
 	```
-	Outpu:
+	Output:
 	```
 	1
 	```
@@ -29,7 +29,7 @@ Example usage
 	```
 	x=-2, y=-1.3
 	```
-	Outpu:
+	Output:
 	```
 	0
 	```
@@ -37,7 +37,7 @@ Example usage
 	```
 	x=2, y=-1
 	```
-	Outpu:
+	Output:
 	```
 	1
 	```
