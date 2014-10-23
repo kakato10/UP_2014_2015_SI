@@ -84,7 +84,7 @@ So basically you should display the value of  "a operator b" using switch. If th
 	```
  * Input:
 	```
-	a = 3, operator = '*', b = 2
+a = 3, operator = '*', b = 2
 	```
 	Output:
 	```
@@ -93,7 +93,7 @@ So basically you should display the value of  "a operator b" using switch. If th
 
  * Input:
 	```
-	a = 3, operator = '%', b = 2
+a = 3, operator = '%', b = 2
 	```
 	Output:
 	```
