@@ -65,7 +65,7 @@ Example usage
 ##Task 3 Simple Calculator
 
 Write a C++, which asks the user to enter three values for a, operator and b, where a and b are numbers and operator is char. Operator should be one of the following: '+', '-', '/', '*'
-So basically you should display the value of  "a operator b" using switch. The examples are going to make it a bit more understandable.
+So basically you should display the value of  "a operator b" using switch. If the operator is not one of these four it should display the message "Unknown operator!". The examples are going to make it a bit more understandable.
  * Input:
 	```
 	a = 4, operator = '+',  b = 3.2
@@ -91,6 +91,14 @@ So basically you should display the value of  "a operator b" using switch. The e
 	6
 	```
 
+ * Input:
+	```
+	a = 3, operator = '%', b = 2
+	```
+	Output:
+	```
+	Unknown operator!!
+	```
 
 ### Now that you've read everything, get to work. 
 ## Let the force be with you!
