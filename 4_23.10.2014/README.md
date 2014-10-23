@@ -62,7 +62,7 @@ Example usage
 	x1 = 0, x2 = -4
 	```
 
-##Task 3 
+##Task 3 Simple Calculator
 
 Write a C++, which asks the user to enter three values for a, operator and b, where a and b are numbers and operator is char. Operator should be one of the following: '+', '-', '/', '*'
 So basically you should display the value of  "a operator b" using switch. The examples are going to make it a bit more understandable.
