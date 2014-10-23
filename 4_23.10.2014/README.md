@@ -60,6 +60,7 @@ Example usage
 	Output:
 	```
 	x1 = 0, x2 = -4
+	```
 
 ##Task 3 
 
@@ -90,6 +91,6 @@ So basically you should display the value of  "a operator b" using switch. The e
 	6
 	```
 
-	
+
 ### Now that you've read everything, get to work. 
 ## Let the force be with you!
