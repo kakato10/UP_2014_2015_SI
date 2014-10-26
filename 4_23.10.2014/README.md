@@ -83,22 +83,22 @@ So basically you should display the value of  "a operator b" using switch. If th
 	2
 	```
  * Input:
-	```
-	a = 3, operator = '*', b = 2
-	```
-	Output:
-	```
-	6
-	```
+   ```
+   a = 3, operator = '*', b = 2
+   ```
+   Output:
+   ```
+   6
+   ```
+ * Input: 
+   ```
+   a = 3, operator = '%', b = 2
+   ```
+   Output:
+   ```
+   Unknown operator!!
+   ```
 
- * Input:
-	```
-	a = 3, operator = '%', b = 2
-	```
-	Output:
-	```
-	Unknown operator!!
-	```
 
 ### Now that you've read everything, get to work. 
 ## Let the force be with you!
