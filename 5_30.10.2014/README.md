@@ -9,16 +9,43 @@ Implement a C++ program which describes the drawing process of an Ulam spiral. T
 	```
 	startX = 150, startY = 150, step = 50
 	```
-	Output:
+ * Output:
 	```
 	Line number 1 (up): (150, 150) ---> (150, 100)
+	```
+	
+	```
 	Line number 2 (right): (150, 100) ---> (200, 100)
+	```
+	
+	```
 	Line number 3 (down): (200, 100) ---> (200, 200)
+	```
+	
+	```
 	Line number 4 (left): (200, 200) ---> (100, 200)
+	```
+	
+	```
 	Line number 5 (up): (100, 200) ---> (100, 50)
+	```
+	
+	```
 	Line number 6 (right): (100, 50) --> (250, 50)
+	```
+	
+	```
 	Line number 7 (down): (250, 50) --> (250, 250)
+	```
+	
+	```
 	Line number 8 (left): (250, 250) --> (50, 250)
+	```
+	
+	```
 	Line number 9 (up): (50, 250) --> (50, 0)
+	```
+	
+	```
 	LAST LINE DRAWN!!!!
 	```
