@@ -11,9 +11,9 @@ enum Color {BLUE=1, RED=2, GREEN, WHITE}
 And we can define a variable of type color like this:
 ```
 Color my_color = GREEN
-Color my_color = 4 //that means my_color is white
+Color second_color = 4 //that means second_color is white
 ```
-BLUE, RED and all other colors are called constants of the type Color. Every constant is presented in the memore with it's code (1 for BLUE, 2 for RED and so on).
+BLUE, RED and all other colors are called constants of the type Color. Every constant is presented in the memory with it's code (1 for BLUE, 2 for RED and so on).
 If you don't specify the code of a constant it will get the code of the previous constant and will add 1 to it (the code of GREEN is equal to the code of RED + 1)
 So basically if you do the following 
 ```
@@ -26,18 +26,31 @@ You can read more about enum over here:
 
 ##Arrays
 
-Now, let's say something. We use them to store many values of the same type in one particular variable. For example if we want to store 3 real numbers in one variable for example test_results we do one of the following;
+Now, let's say something about arrays. We use them to store many values of the same type in one particular variable. For example if we want to store 3 real numbers in one variable (let's say test_results), we do one of the following;
 ```
 double test_results [3] = {5.65, 3.20, 4.50};
-double test_results [] = {5.65, 3.20, 4.50}
 ```
-When we don't specify how many elements of the array are there going to be (a.k.a [] in the declaration is empty) we can add as many elements as we want in it.
+```
+double test_results [] = {5.65, 3.20, 4.50};
+```
+When we don't specify how many elements of the array are there going to be (a.k.a: [] is empty in the declaration of the array) we can add as many elements as we want in it.
 Every element of the array has it's own index. The index of the first element in an array 0, the index of the second is 1 and so on until we reach the index of the last one which is the length of the array minus 1.
 
 We can't do things like these:
 ```
 int a[5], b[7];
 cin >> a >> b;
+```
+```
+int a[];
+```
+```
+int a[];
+a = {1,2,5,10};
+```
+```
+int a[5];
+a = {1,3,4,5,6};
 ```
 ```
 int a[5], b[7];
