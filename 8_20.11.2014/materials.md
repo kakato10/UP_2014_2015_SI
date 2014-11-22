@@ -14,7 +14,7 @@ for (int i = 0; i < 9; i++) //gonna call it loopOne
 ``` 
 In that case we have a loop that will iterate through the array (loopOne).
 Why the condition in the for loop is ``` i < 9 ``` ? Take a look at loopTwo. Notice that
-``` j = i + 1 ``` in that case if i = 9 then j will be 10 and we dont't have an element with index 10 in the array so will get an error. 
+``` j = i + 1 ``` in that case if ```i = 9``` then j will be 10 and we dont't have an element with index 10 in the array so will get an error. 
 Now what is actually happening with that nested loops?
 For every iteration of loopOne, loopTwo will go ahead of it and check all the values in the array. If the array is big the process is very slow so be careful when using nested loops in production.
 In that [link](http://mathbits.com/MathBits/CompSci/looping/nested.htm) you can find a bit more concrete explaination how does this works. This explaination refers to every other loops too.
