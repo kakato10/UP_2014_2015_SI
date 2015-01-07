@@ -24,7 +24,7 @@ So basically the function should change some of the elements of the array by add
 Write a C++ function which has the following prototype:
 
 ```
-bool isLoyal(char[] client, char[][] loyalClients, double& prize)
+bool isLoyal(char client[], char loyalClients[5][10], double& prize)
 ```
 
 * client is the name of the client;
