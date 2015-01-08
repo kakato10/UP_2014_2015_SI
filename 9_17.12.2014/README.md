@@ -28,7 +28,7 @@ bool isLoyal(char client[], char loyalClients[][10], int loyalClientsCount, doub
 ```
 
 * client is the name of the client;
-* loyalClients is an array of all loyalClients of our Pizzeria;
+* loyalClients is an array with all the first names of loyalClients of our Pizzeria;
 * loyalClientsCount is the count of the loyal clients which are passed to the function;
 * prize is the prize of the order that the client wants to make;
 
